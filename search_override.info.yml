@@ -1,0 +1,6 @@
+name: Search Override
+type: module
+description: 'Alters google appliance search block'
+core: '8.x'
+dependencies:
+  - google_appliance
